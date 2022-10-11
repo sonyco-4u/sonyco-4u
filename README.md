@@ -2,6 +2,8 @@ sonyco-4u/README.md
 
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 I'M EZEMA ANTHONY SUNDAY
 
 **I'M FULL-STACK SOFTWARE DEVELOPER STUDENT**
