@@ -9,7 +9,7 @@ I'M EZEMA ANTHONY SUNDAY
 I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELOPMENT PROGRAM THAT USES PAIR PROGRAMMING AND PROJECT BUILDING TO TEACH DEVELOPMENT IN A MULTICULTURAL ENVIRONMENT AND SHOW YOU THE ROAD MAP TO BECOMING A SEASONED DEVELOPER THROUGH PAIR PROGRAMMING. I LOVE THE ABILITY TO CREATE REALITY FROM AN IDEA THAT CAN CHANGE THE WORLD. CREATIVITY IS NOT MY ONLY PASSION, I ALSO LOVE FOOTBALL, TRAVELLING, AND HANGING OUT WITH FRIENDS. I HOPE TO MAKE THE WORLD A BETTER PLACE TO LIVE IN WITH THE SKILLS I AQUIRE.
 
 
-⚡ I like 👨‍💻 : Coding | 🎮 : Gaming | ⛹️‍♂️: Basketball | 🏊 : Swimming
+⚡ I like 👨‍💻 : Coding | 🎮 : Watching-Movie | ⛹️‍♂️: Creativity | 🏊 : Travelling
 
 ## Technologies 💻
 
@@ -45,13 +45,13 @@ I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELO
 
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/tochukwu-orizu-57352120b/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  https://www.linkedin.com/in/ezema-anthony-sunday-9180a3157/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/tuzyorizu" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/EZEMASUN" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:r.m.orizut@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:ezemaanthonysunday@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   </div>
