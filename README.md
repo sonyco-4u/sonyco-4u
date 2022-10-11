@@ -2,9 +2,6 @@
 
 ### Hi there 👋
 
-<!--
-**sonyco-4u/sonyco-4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'M EZEMA ANTHONY SUNDAY
 
 ### I'M FULL-STACK SOFTWARE DEVELOPER STUDENT
