@@ -38,9 +38,6 @@ I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELO
    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Bushido's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/Bushido-brown/github-readme-stats)
 ![Bushido's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&theme=blue-green)
 
