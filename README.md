@@ -45,6 +45,22 @@ I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELO
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact 📫
+
+<div>
+  <div>
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/tochukwu-orizu-57352120b/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/tuzyorizu" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:r.m.orizut@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  </div>
+</div>
+
 
 
 
