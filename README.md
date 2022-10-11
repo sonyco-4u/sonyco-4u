@@ -2,8 +2,6 @@ sonyco-4u/README.md
 
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 I'M EZEMA ANTHONY SUNDAY
 
 **I'M FULL-STACK SOFTWARE DEVELOPER STUDENT**
@@ -14,6 +12,8 @@ I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELO
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
