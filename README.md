@@ -10,9 +10,9 @@ I'M ANTHONY FROM NIGERIA, I AM A STUDENT AT MICROVERSE, A REMOTE SOFTWARE DEVELO
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
