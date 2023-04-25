@@ -20,7 +20,6 @@ Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and Po
   ![Ruby](https://img.shields.io/badge/Ruby-%23ED8B00.svg?style=for-the-badge&logo=Ruby&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-%23ED8B00.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
  
@@ -31,7 +30,6 @@ Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and Po
  ![rails](https://img.shields.io/badge/rails-%238DD6F9.svg?style=for-the-badge&logo=rails&logoColor=black)
  ![Figma](https://img.shields.io/badge/figma-%238DD6F9.svg?style=for-the-badge&logo=figma&logoColor=black)
  ![Jest](https://img.shields.io/badge/jest-%238DD6F9.svg?style=for-the-badge&logo=jest&logoColor=black)
- ![Figma](https://img.shields.io/badge/figma-%238DD6F9.svg?style=for-the-badge&logo=figma&logoColor=black)
  ![Rspec](https://img.shields.io/badge/rspec-%238DD6F9.svg?style=for-the-badge&logo=rspec&logoColor=black)
 
 ### Databases
