@@ -1,5 +1,5 @@
 
-##### Hi  👋 My name is Sunday Anthony Ezema
+## Hi  👋 My name is Sunday Anthony Ezema
 
 **Full-stack Developer**
 
