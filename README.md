@@ -1,5 +1,5 @@
 
-### Hi  👋 My name is Sunday Anthony Ezema
+##### Hi  👋 My name is Sunday Anthony Ezema
 
 **Full-stack Developer**
 
@@ -15,19 +15,24 @@ Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and Po
 
 ## Technologies 💻
 
-### Back-End
+### Languages
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-### Front-End
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Ruby](https://img.shields.io/badge/Ruby-%23ED8B00.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/Ruby-%23ED8B00.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 
-### Frameworks and Libraries
-   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+### Frameworks, Platforms and Libraries
+ 
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+ ![React](https://img.shields.io/badge/react-%238DD6F9.svg?style=for-the-badge&logo=react&logoColor=black)
+ ![Nodejs](https://img.shields.io/badge/nodejs-%238DD6F9.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+ ![rails](https://img.shields.io/badge/rails-%238DD6F9.svg?style=for-the-badge&logo=rails&logoColor=black)
+ ![Figma](https://img.shields.io/badge/figma-%238DD6F9.svg?style=for-the-badge&logo=figma&logoColor=black)
+ ![Jest](https://img.shields.io/badge/jest-%238DD6F9.svg?style=for-the-badge&logo=jest&logoColor=black)
+ ![Figma](https://img.shields.io/badge/figma-%238DD6F9.svg?style=for-the-badge&logo=figma&logoColor=black)
+ ![Rspec](https://img.shields.io/badge/rspec-%238DD6F9.svg?style=for-the-badge&logo=rspec&logoColor=black)
 
 ### Databases
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,7 +52,7 @@ Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and Po
 
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href=https://www.linkedin.com/in/ezema-anthony-sunday-9180a3157/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  https://www.linkedin.com/in/anthony-ezema/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/EZEMASUN" target="_blank">
