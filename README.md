@@ -1,8 +1,7 @@
+sonyco-4u/README.md
+Hi My name is Kelvin Benjamin
 
-
-### Hi there 👋
-
-I'M SUNDAY ANTHONY EZEMA
+### Hi  👋 My name is Sunday Anthony Ezema
 
 **Full-stack Developer**
  
