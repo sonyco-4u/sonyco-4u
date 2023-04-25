@@ -7,8 +7,11 @@ sonyco-4u/README.md
 Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and PostgreSQL. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.
  
 * 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/anthony-ezema/)
+
 * 🧠  I'm currently building Fullstack projects
+
 * 🤝  I'm open to collaborating on JavaScript, React and Ruby on Rails projects
+
 * ⚡ I like 👨‍💻 : Coding | 🎮 : Watching-Movie | ⛹️‍♂️: Creativity | 🏊 : Travelling
 
 ## Technologies 💻
