@@ -1,4 +1,3 @@
-sonyco-4u/README.md
 
 ### Hi  👋 My name is Sunday Anthony Ezema
 
